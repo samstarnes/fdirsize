@@ -12,7 +12,7 @@ Auto mount NFS drives and restart services automatically
 3.7Ti 3967537167868 "/mnt/Jellyfin/Movies"
 1.4Ti 1445465593601 "/mnt/Jellyfin/Anime"
 1.2Ti 1211958729649 "/mnt/Jellyfin/Anime/TV"
-383Gi 410750555021 "/mnt/Jellyfin/TV/Stargate SG-1 S01-S10 br 10bit ac3 hevc-d3g (remux-iso @1.41TB)"
+383Gi 410750555021 "/mnt/Jellyfin/TV/Stargate SG-1 S01-S10"
 290Gi 310456322823 "/mnt/Jellyfin/TV/South.Park"
 248Gi 265224018824 "/mnt/Jellyfin/TV/Star.Trek.The.Next.Generation"
 ...
