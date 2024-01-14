@@ -1,8 +1,8 @@
-# AutoMountNFS
-Auto mount NFS drives and restart services automatically
+# FDirSize
+FDirSize - Generate du logs of files in a directory with human readable data organized by size
 
 # Usage
-`sudo bash automount.sh /`
+`sudo bash fdirsize.sh /`
 
 # Preview
 ```
